@@ -1,0 +1,82 @@
+.card-title{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+span{
+    background-color: white;
+    color: skyblue;
+    font-size: 20px;
+}
+.one{
+    background-color: blue;
+    padding: 20px;
+    padding-right: 20px;
+    color: white;
+border-radius: 15px;
+}
+.two{
+    background-color: black;
+    padding: 20px;
+    padding-right: 20px;
+    color: white;
+    border-radius: 15px;
+}
+
+.card-body{
+   border: none;
+   margin-bottom: 600px;
+}
+.for{
+    float: right;
+    border-radius: 10px;
+    margin-bottom: 200px;
+}
+
+h6{
+    text-align: center;
+}
+h5{
+    font-weight: 900;
+    text-align: center;
+    font-size: 20px;
+}
+
+.me{
+    justify-content: center;
+    border-radius: 100%;
+    border: 2px solid grey;
+    margin-left: 450px;
+}
+.container{
+    justify-content: center;
+    letter-spacing: normal;
+}
+.five{
+    color: green;
+    font-weight: 900;
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+.dog{
+    width: 10%;
+}
+.zero{
+    text-align: center;
+ 
+}
+.six{
+    color:black ;
+    text-decoration: none;
+    font-weight: 900;
+    
+}
+.section{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.old{
+flex-direction: column;
+}
